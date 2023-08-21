@@ -17,7 +17,7 @@ const Footer = () => {
       </div>
       <div className="copyright bg-black">
         <p className="container-custom-xs text-white/40 py-5 text-sm">
-          Copyright © 2023 - 2023 All Rights Reserved By{" "}
+          Copyright © 2023 - Present All Rights Reserved By{" "}
           <a href="https://devsubid.vercel.com/" className="text-white/80">
             SUBID DAS
           </a>
